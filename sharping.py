@@ -3,7 +3,7 @@ import cv2
 input_imgs =cv2.imread("sample6.jpg",cv2.IMREAD_COLOR)
 input_HSV = cv2.cvtcolor(input_imgs,cv2.COLOR_BGR2HSV)
 
-height, width, channel = image.shape
+height, width, channel = input_imgs.shape
 
 v = 0
 
