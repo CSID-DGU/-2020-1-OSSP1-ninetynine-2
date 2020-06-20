@@ -26,6 +26,12 @@
 
 [Requirements](https://github.com/CSID-DGU/2020-1-OSSP1-ninetynine-2/blob/master/requirements.txt)
 
+
+## 실행 방법
+~~
+
+
+
 ## Time Table
 
 
