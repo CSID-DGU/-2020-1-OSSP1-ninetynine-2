@@ -3,11 +3,13 @@
 # Niney-Nine
 
 # Project PRoTOS
+
 ## 팀원
-* 김지민
-* 김민우
-* 김태용
-* 원태호
+
+* 김민우(팀장)
+  * 김지민
+  * 김태용
+  * 원태호
 
 ## 프로젝트 주제
 - 얼굴 인식과 홍채인식의 기술이 상용화 되어 사진으로 인한 개인 정보의 유출 위험 존재.
@@ -22,6 +24,7 @@
 - nvidia
 - tensorflow
 
+[Requirements](https://github.com/CSID-DGU/2020-1-OSSP1-ninetynine-2/blob/master/requirements.txt)
 
 ## Time Table
 
