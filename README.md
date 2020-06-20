@@ -22,7 +22,7 @@
 - colab
 - python 3.6
 - nvidia
- - cuda 10
+    - cuda 10
 - tensorflow 1.15
 
 [Requirements](https://github.com/CSID-DGU/2020-1-OSSP1-ninetynine-2/blob/master/requirements.txt)
