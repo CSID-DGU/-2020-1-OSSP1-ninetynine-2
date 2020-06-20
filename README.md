@@ -39,7 +39,7 @@
 
 ### 원본 소스(출처)
 - face_recognition - <https://github.com/ageitgey/face_recognition>
-- NVidia StyleGAN2 - <https://github.com/NVlabs/stylegan2>
+- StyleGan-encoder - <https://github.com/jacobhallberg/pytorch_stylegan_encoder>
 - Flickr-Faces-HQ Dataset (FFHQ) - <https://github.com/NVlabs/ffhq-dataset>
 - FaceSwap - <https://github.com/wuhuikai/FaceSwap>
 
