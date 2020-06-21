@@ -35,13 +35,15 @@
 
 ## Time Table
 
-
-
+## License
+이 프로젝트는 아래 명시 된 것처럼 다양한 OSS를 활용하여 만들어낸 프로젝트 입니다. 
+face_recognition는 MIT License 이고 나머지 두개는 No Lisence입니다. 
+참고 하고 사용해주시길 바랍니다.
+[face_recognition's Lisence](https://https://github.com/ageitgey/face_recognition/blob/master/LICENSE)
 
 ### 원본 소스(출처)
 - face_recognition - <https://github.com/ageitgey/face_recognition>
 - StyleGan-encoder - <https://github.com/jacobhallberg/pytorch_stylegan_encoder>
-- Flickr-Faces-HQ Dataset (FFHQ) - <https://github.com/NVlabs/ffhq-dataset>
 - FaceSwap - <https://github.com/wuhuikai/FaceSwap>
 
 
