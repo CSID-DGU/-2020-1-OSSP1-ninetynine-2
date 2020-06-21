@@ -27,6 +27,13 @@
 
 [Requirements](https://github.com/CSID-DGU/2020-1-OSSP1-ninetynine-2/blob/master/requirements.txt)
 
+-Colab에서 실행시 
+!pip install tensorflow-gpu==1.15
+!pip install face_recognition
+dlib>=19.9.0 
+numpy>=1.13.1 
+scipy>=0.18.0 
+실행후 바로 사용가능
 
 ## 실행 방법
 ~~
