@@ -69,5 +69,5 @@ face_recognition는 MIT License 이고 나머지 두개는 No Lisence입니다.
 - face_recognition - <https://github.com/ageitgey/face_recognition>
 - StyleGan-encoder - <https://github.com/jacobhallberg/pytorch_stylegan_encoder>
 - FaceSwap - <https://github.com/wuhuikai/FaceSwap>
-
+- PRNet - <https://github.com/YadiraF/PRNet>
 
