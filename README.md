@@ -51,7 +51,7 @@ scipy>=0.18.0 </code></pre>
 
 
 ## Time Table
-~이미지파일로 만들어서 올릴것~
+![Time-Table](./timetable.PNG)
 
 
 
