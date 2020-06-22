@@ -1,10 +1,9 @@
 # 2020 OSSP 1학기
 
-# Niney-Nine
+# Project PROTOS   
+**(PROTect Our facial Secure)**
 
-# Project PRoTOS
-
-## 팀원
+## Team Ninety-Nine
 
 * 김민우(팀장)
   * 김지민
@@ -27,13 +26,13 @@
 
 [Requirements](https://github.com/CSID-DGU/2020-1-OSSP1-ninetynine-2/blob/master/requirements.txt)
 
--Colab에서 실행시 
-!pip install tensorflow-gpu==1.15
-!pip install face_recognition
+- Colab에서 실행시
+<pre><code>!pip install tensorflow-gpu==1.15 
+!pip install face_recognition 
 dlib>=19.9.0 
 numpy>=1.13.1 
-scipy>=0.18.0 
-실행후 바로 사용가능
+scipy>=0.18.0 </code></pre>
+- 실행후 바로 사용가능
 
 ## 실행 방법
 ~~
@@ -43,9 +42,9 @@ scipy>=0.18.0
 ## Time Table
 
 ## License
-이 프로젝트는 아래 명시 된 것처럼 다양한 OSS를 활용하여 만들어낸 프로젝트 입니다. 
-face_recognition는 MIT License 이고 나머지 두개는 No Lisence입니다. 
-참고 하고 사용해주시길 바랍니다.
+이 프로젝트는 아래 명시 된 것처럼 다양한 OSS를 활용하여 만들어낸 프로젝트입니다.   
+face_recognition는 MIT License 이고 나머지 두개는 No Lisence입니다.   
+참고 하고 사용해주시길 바랍니다.   
 [face_recognition's Lisence](https://https://github.com/ageitgey/face_recognition/blob/master/LICENSE)
 
 ### 원본 소스(출처)
