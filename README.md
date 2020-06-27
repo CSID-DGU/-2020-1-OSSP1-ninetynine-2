@@ -1,5 +1,5 @@
-# 파일 크기가 너무 큰 관계로 파일을 올리는데 오류가 있어 공유 드라이브 다운로드로 일단 올려 놓았습니다
-https://drive.google.com/drive/folders/118xqSB94IUpR8G3zydBFQdqUYZEvcNiL?usp=sharing
+### 파일 크기가 너무 큰 관계로 파일을 올리는데 오류가 있어 공유 드라이브 다운로드로 일단 올려 놓았습니다 빠른시일내에 올려 
+https://drive.google.com/drive/folders/1mI_9NAdgABrvcddZkyzas2JLbf80qBRW?usp=sharing
 # 2020 OSSP 1학기
 
 # Project PROTOS   
